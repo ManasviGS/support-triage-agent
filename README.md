@@ -3,6 +3,7 @@
 Terminal-based agent that triages support tickets across HackerRank, Claude, and Visa.
 
 ## Architecture
+<img width="970" height="530" alt="image" src="https://github.com/user-attachments/assets/1cbe8e52-59e0-435c-9fa3-ce9cae8bc0ad" />
 
 ```
 main.py        ← orchestrator: reads CSV, runs pipeline, writes output
